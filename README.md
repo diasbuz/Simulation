@@ -1,0 +1,1 @@
+Simulation is project about artifical 2D world inhabited by 2 types of creatures: herbivores and predators. In addition to creatures, the world contains static objects that cannot be interacted with - they are used to fill space and for decoration.
